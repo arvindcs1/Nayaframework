@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T10:50:34 IST" name="Default suite" finished-at="2022-01-15T10:50:51 IST" duration-ms="16911">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T10:50:34 IST" name="Default test" finished-at="2022-01-15T10:50:51 IST" duration-ms="16911">
+      <class name="login_check.Login_actitym">
+        <test-method is-config="true" signature="launch_Browser()[pri:0, instance:login_check.Login_actitym@61001b64]" started-at="2022-01-15T10:50:34 IST" name="launch_Browser" finished-at="2022-01-15T10:50:42 IST" duration-ms="8337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Browser -->
+        <test-method is-config="true" signature="login_Application()[pri:0, instance:login_check.Login_actitym@61001b64]" started-at="2022-01-15T10:50:42 IST" name="login_Application" finished-at="2022-01-15T10:50:43 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Application -->
+        <test-method signature="TC1()[pri:0, instance:login_check.Login_actitym@61001b64]" started-at="2022-01-15T10:50:43 IST" name="TC1" finished-at="2022-01-15T10:50:49 IST" duration-ms="6388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="logout_Application()[pri:0, instance:login_check.Login_actitym@61001b64]" started-at="2022-01-15T10:50:49 IST" name="logout_Application" finished-at="2022-01-15T10:50:51 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Application -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:login_check.Login_actitym@61001b64]" started-at="2022-01-15T10:50:51 IST" name="close_browser" finished-at="2022-01-15T10:50:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- login_check.Login_actitym -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
